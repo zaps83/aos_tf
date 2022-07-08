@@ -1,5 +1,3 @@
-# https://www.youtube.com/watch?v=S_KWZUexe4g&t=3s
-
 # configured aws provider with proper credentials
 provider "aws" {
   region    = "us-east-1"
